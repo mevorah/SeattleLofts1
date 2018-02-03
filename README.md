@@ -1,1 +1,0 @@
-# SeattleLofts I
