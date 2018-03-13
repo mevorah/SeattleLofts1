@@ -4,7 +4,7 @@ Press play. Play. Unlock. Seek. Play. Unlock. Seek. It's the routine I had follo
 
 Some things are best left to a physical interface: enter SeattleLofts 1. Inspired by the digital track bar that has become ingrained in media players everywhere, the SeattleLofts 1 takes this familiar digital pattern and makes it analog. It is a Spotify console. One that displays the song currently playing, automatically progresses the track bar, and enables someone to  skip around in a song without missing a beat.
 
-*Special thanks to [Lampemm](http://lampemm.com) for being an inspiration to the outer design.*
+*Special thanks to [Lampemm](http://lampemm.com) whose work inspired the outer design. Photos by Tim Neumann.*
 
 <iframe style="width:500px; height:280px;" src="https://www.youtube.com/embed/K1kg1dLRlXw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
