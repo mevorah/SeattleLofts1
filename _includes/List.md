@@ -1,4 +1,4 @@
-# SeattleLofts I
+# SeattleLofts 1
 [**SeattleLofts**](/)
 
 [***Feature***](#)
