@@ -14,6 +14,6 @@ Some things are best left to a physical interface: enter SeattleLofts 1. Inspire
 ![Tycho](https://github.com/mevorah/SeattleLofts1/blob/master/_img/Tycho.jpg?raw=true "Tycho")
 ![TheShins](https://github.com/mevorah/SeattleLofts1/blob/master/_img/TheShins.jpg?raw=true "TheShins")
 ![UsingClose](https://github.com/mevorah/SeattleLofts1/blob/master/_img/UsingClose.jpg?raw=true "UsingClose")
-![Using](https://github.com/mevorah/SeattleLofts1/blob/master/_img/Using.png?raw=true "Using")
+![Me!](https://github.com/mevorah/SeattleLofts1/blob/master/_img/Using.png?raw=true "Using")
 
 # The Making Of
