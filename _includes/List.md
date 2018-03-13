@@ -1,2 +1,5 @@
 # SeattleLofts I
-[↖SeattleLofts](/)
+[**SeattleLofts**](/)
+
+* Feature
+* The Making Of
