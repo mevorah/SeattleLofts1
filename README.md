@@ -6,11 +6,11 @@ Some things are best left to a physical interface: enter SeattleLofts 1. Inspire
 
 *Special thanks to [Lampemm](http://lampemm.com) for being an inspiration to the outer design.*
 
-<div syle="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+<p syle="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
 
 <iframe style="position:absolute; top:0; left:0; width:100%; height:100%" src="https://www.youtube.com/embed/K1kg1dLRlXw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-</div>
+</p>
 
 
 ![Bahamas](https://github.com/mevorah/SeattleLofts1/blob/master/_img/Bahamas.png?raw=true "Bahamas")
