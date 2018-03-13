@@ -6,7 +6,6 @@ Some things are best left to a physical interface: enter SeattleLofts 1. Inspire
 
 *Special thanks to [Lampemm](http://lampemm.com) for being an inspiration to the outer design.*
 
-
 \<p style="position:relative; width:100%; height:0;">
 
 <iframe style="position:absolute; top:0; left:0; width:100%; height:100%" src="https://www.youtube.com/embed/K1kg1dLRlXw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
