@@ -6,7 +6,7 @@ Some things are best left to a physical interface: enter SeattleLofts 1. Inspire
 
 *Special thanks to [Lampemm](http://lampemm.com) whose work inspired the outer design. Photos by Tim Neumann.*
 
-<iframe style="width:498px; height:280px;" src="https://www.youtube.com/embed/K1kg1dLRlXw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="width:497px; height:280px;" src="https://www.youtube.com/embed/K1kg1dLRlXw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![Bahamas](https://github.com/mevorah/SeattleLofts1/blob/master/_img/Bahamas.png?raw=true "Bahamas")
 ![Front](https://github.com/mevorah/SeattleLofts1/blob/master/_img/Front.png?raw=true "Front")
