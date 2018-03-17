@@ -32,4 +32,5 @@ Find below some pictures that illustrate *the making of*:
 ![Stain](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AStain.JPG?raw=true "Stain")
 ![Inside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AInside.png?raw=true "Inside")
 
+<a style="text-align: right" href="#">your-text-here</a>
 *[Go to top](#)*
