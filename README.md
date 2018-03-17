@@ -18,18 +18,18 @@ Some things are best left to a physical interface: enter SeattleLofts 1. Inspire
 
 # The Making Of
 
-I took advantage of a lot of resources to get this this built. The SeattleLofts 1 is made of walnut purchased at *[Crosscut Hardwoods](http://www.crosscutseattle.com)* and was handmade at the *[Capitol Hill Tool Library](https://sustainablecapitolhill.org/tool-library/)* in Seattle WA. The hardware is supported by a RaspberryPi Zero W, programmed in Java, and leverages the [Pi4J library](http://pi4j.com). Three track bar knobs were designed and 3D printed. Two are made entirely of plastic, the third a combination of plastic and steel. The parts were printed through *[Shapeways](http://shapeways.com)*. Electronic components (RaspberryPi, motorized slide potentiometer, and 2x16 black and white LCD) were purchased at *[Sparkfun Elecronics](https://www.sparkfun.com)*.
+I took advantage of a lot of resources to get this thing built. The SeattleLofts 1 is made of walnut purchased at *[Crosscut Hardwoods](http://www.crosscutseattle.com)* and was handmade at the *[Capitol Hill Tool Library](https://sustainablecapitolhill.org/tool-library/)* in Seattle WA. The hardware is supported by a RaspberryPi Zero W, programmed in Java, and leverages the [Pi4J library](http://pi4j.com). Three track bar knobs were designed and 3D printed. Two are made entirely of plastic, the third a combination of plastic and steel. The parts were printed through *[Shapeways](http://shapeways.com)*. Electronic components (RaspberryPi, motorized slide potentiometer, and 2x16 black and white LCD) were purchased at *[Sparkfun Elecronics](https://www.sparkfun.com)*.
 
 I took a ton of pictures throughout the process of designing and building this project. Find below a couple that serve to illustrate my process:
 
-![Software](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASoftware.JPG?raw=true "Software")
+![Potentiometer](https://github.com/mevorah/SeattleLofts1/blob/master/_img/APotent.JPG?raw=true "Potentiometer")
 ![LCD](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ALCD.JPG?raw=true "ALCD")
-![SketchA](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASketchA.JPG?raw=true "ASketchA")
-![SketchB](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASketchB.JPG?raw=true "ASketchB")
-![SketchB](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASketchB.png?raw=true "ASketchB")
-![Potentiometer](https://github.com/mevorah/SeattleLofts1/blob/master/_img/APotent.JPG?raw=true "APotent")
-![Outside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AOutside.JPG?raw=true "AOutside")
-![Inside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AInside.JPG?raw=true "AInside")
+![SketchA](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASketchA.JPG?raw=true "SketchA")
+![SketchB](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASketchB.JPG?raw=true "SketchB")
+![SketchB](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASketchB.png?raw=true "SketchB")
+![Outside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AOutside.JPG?raw=true "Outside")
 ![AWood](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AWood.JPG?raw=true "Wood")
-![AWoodB](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AWoodB.JPG?raw=true "WoodB")
+![AWoodB](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AWoodB.JPG?raw=true "Wood")
 ![Stain](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AStain.JPG?raw=true "Stain")
+![Inside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AInside.JPG?raw=true "Inside")
+
