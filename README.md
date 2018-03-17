@@ -18,9 +18,9 @@ Some things are best left to a physical interface: enter SeattleLofts 1. Inspire
 
 # The Making Of
 
-I took advantage of a lot of resources to get this thing built. The SeattleLofts 1 is made of walnut purchased at *[Crosscut Hardwoods](http://www.crosscutseattle.com)* and was handmade at the *[Capitol Hill Tool Library](https://sustainablecapitolhill.org/tool-library/)* in Seattle WA. The hardware is supported by a RaspberryPi Zero W, programmed in Java, and leverages the [Pi4J library](http://pi4j.com). Three track bar knobs were designed and 3D printed. Two are made entirely of plastic, the third a combination of plastic and steel. The parts were printed through *[Shapeways](http://shapeways.com)*. Electronic components (RaspberryPi, motorized slide potentiometer, and 2x16 black and white LCD) were purchased at *[Sparkfun Elecronics](https://www.sparkfun.com)*.
+I took advantage of a lot of resources to get this thing built. The SeattleLofts 1 is made of walnut purchased at *[Crosscut Hardwoods](http://www.crosscutseattle.com)*, and was handmade at the *[Capitol Hill Tool Library](https://sustainablecapitolhill.org/tool-library/)* in Seattle WA. The hardware is supported by a RaspberryPi Zero W, is programmed in Java, and leverages the [Pi4J library](http://pi4j.com). Three track bar knobs were designed and 3D printed. Two are made entirely of plastic, the third a combination of plastic and steel. The parts were printed through *[Shapeways](http://shapeways.com)*. Electronic components (RaspberryPi, motorized slide potentiometer, and 2x16 black and white LCD) were purchased at *[Sparkfun Elecronics](https://www.sparkfun.com)*.
 
-I took a ton of pictures throughout the process of designing and building this project. Find below a couple that serve to illustrate my process:
+I took a ton of pictures throughout the process of designing and building this project. Find below a couple that serve to illustrate the process:
 
 ![Potentiometer](https://github.com/mevorah/SeattleLofts1/blob/master/_img/APotent.JPG?raw=true "Potentiometer")
 ![PaperInside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/PaperInside.jpg?raw=true "PaperInside")
