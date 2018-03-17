@@ -18,9 +18,9 @@ Some things are best left to a physical interface: enter SeattleLofts 1. Inspire
 
 # The Making Of
 
-There were a ton of resources I took advantage of to get this thing built. The SeattleLofts 1 is made of walnut purchased at *[Crosscut Hardwoods](http://www.crosscutseattle.com)*, and was handmade at the *[Capitol Hill Tool Library](https://sustainablecapitolhill.org/tool-library/)* in Seattle WA. The hardware is supported by a RaspberryPi Zero W, is programmed in Java, and leverages the *[Pi4J library](http://pi4j.com)*. Three track bar knobs were designed in *[Sketchup](https://www.sketchup.com)*, and 3D printed at *[Shapeways](http://shapeways.com)*. Components (RaspberryPi, motorized slide potentiometer, and 2x16 black and white LCD) were purchased at *[Sparkfun Elecronics](https://www.sparkfun.com)*.
+There were a ton of resources I took advantage of to get this thing built. The SeattleLofts 1 is made of walnut purchased at *[Crosscut Hardwoods](http://www.crosscutseattle.com)*, and was handmade at the *[Capitol Hill Tool Library](https://sustainablecapitolhill.org/tool-library/)* in Seattle WA. The hardware is supported by a *[RaspberryPi Zero W](https://www.raspberrypi.org)*, is programmed in Java, and leverages the *[Pi4J library](http://pi4j.com)*. Three track bar knobs were designed in *[Sketchup](https://www.sketchup.com)*, and 3D printed at *[Shapeways](http://shapeways.com)*. Components (RaspberryPi, motorized slide potentiometer, and 2x16 black and white LCD) were purchased at *[Sparkfun Elecronics](https://www.sparkfun.com)*.
 
-I took a ton of pictures throughout the process of designing and building this project. Find below a couple that serve to illustrate *the making of*:
+Find below some pictures that illustrate *the making of*:
 
 ![Potentiometer](https://github.com/mevorah/SeattleLofts1/blob/master/_img/APotent.JPG?raw=true "Potentiometer")
 ![PaperInside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/PaperInside.jpg?raw=true "PaperInside")
