@@ -32,5 +32,5 @@ I took a ton of pictures throughout the process of designing and building this p
 ![AWood](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AWood.JPG?raw=true "Wood")
 ![AWoodB](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AWoodB.JPG?raw=true "Wood")
 ![Stain](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AStain.JPG?raw=true "Stain")
-![Inside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AInside.JPG?raw=true "Inside")
+![Inside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AInside.png?raw=true "Inside")
 
