@@ -17,3 +17,21 @@ Some things are best left to a physical interface: enter SeattleLofts 1. Inspire
 ![Me!](https://github.com/mevorah/SeattleLofts1/blob/master/_img/Using.png?raw=true "Using")
 
 # The Making Of
+
+![Software](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASoftware.JPG?raw=true "Software")
+
+![LCD](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ALCD.JPG?raw=true "ALCD")
+![SketchA](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASketchA.JPG?raw=true "ASketchA")
+![SketchB](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASketchB.JPG?raw=true "ASketchB")
+![SketchB](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASketchB.png?raw=true "ASketchB")
+
+![Potentiometer](https://github.com/mevorah/SeattleLofts1/blob/master/_img/APotent.JPG?raw=true "APotent")
+
+![Outside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AOutside.JPG?raw=true "AOutside")
+![Inside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AInside.JPG?raw=true "AInside")
+
+![AWood](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AWood.JPG?raw=true "Wood")
+![AWoodB](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AWoodB.JPG?raw=true "WoodB")
+
+
+![Stain](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AStain.JPG?raw=true "Stain")
