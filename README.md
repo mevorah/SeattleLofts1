@@ -22,10 +22,10 @@ I took advantage of a lot of resources to get this thing built. The SeattleLofts
 
 I took a ton of pictures throughout the process of designing and building this project. Find below a couple that serve to illustrate my process:
 
-
 ![LCD](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ALCD.JPG?raw=true "ALCD")
 ![Potentiometer](https://github.com/mevorah/SeattleLofts1/blob/master/_img/APotent.JPG?raw=true "Potentiometer")
-![Outside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/AOutside.JPG?raw=true "Outside")
+![PaperInside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/PaperInside.jpg?raw=true "PaperInside")
+![PaperOutside](https://github.com/mevorah/SeattleLofts1/blob/master/_img/PaperOutside.jpg?raw=true "PaperOutside")
 ![SketchA](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASketchA.JPG?raw=true "SketchA")
 ![SketchB](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASketchB.JPG?raw=true "SketchB")
 ![SketchB](https://github.com/mevorah/SeattleLofts1/blob/master/_img/ASketchB.png?raw=true "SketchB")
